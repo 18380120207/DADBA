@@ -1,0 +1,1 @@
+[["clahe", {"clip_limit": 3.0, "tile_grid_size": [8, 8]}], ["sharpen", {"alpha": 0.5, "lightness": 1.0}], ["solarize", {"threshold": 0.5}]]

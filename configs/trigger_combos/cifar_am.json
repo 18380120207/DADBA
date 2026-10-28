@@ -1,0 +1,1 @@
+[["gauss_noise", {"sigma": 1.0}], ["Defocus", {"blur_limit": 3}], ["GlassBlur", {"sigma": 0.5, "max_delta": 3, "iterations": 2}]]

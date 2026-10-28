@@ -1,0 +1,1 @@
+[["Defocus", {"blur_limit": 3}], ["wiener_filter", {"d": 5}], ["solarize", {"threshold": 0.5}]]
